@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pro-state/propack/issues"
   },
-  "homepage": "https://github.com/pro-state/propack#readme"
+  "homepage": "https://github.com/pro-state/propack#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
 }
